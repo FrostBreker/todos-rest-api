@@ -31,4 +31,4 @@ curl -X PATCH -H "Content-Type: application/json" http://localhost:8080/todos/1
 ```
 
 
-Made code it with this [video](https://www.youtube.com/watch?v=d_L64KT3SFM)
+Coded with this [video](https://www.youtube.com/watch?v=d_L64KT3SFM)
